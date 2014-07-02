@@ -1,0 +1,12 @@
+D:\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\TranslatorMainApplication.csproj.GenerateResource.Cache
+D:\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Hooks.dll
+D:\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Hooks.pdb
+D:\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\TranslatorMainApplication.Form1.resources
+D:\Anton\Мои программы\Translator\VS2008\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Anton\Мои программы\Translator\VS2008\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

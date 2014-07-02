@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatorMainApplication", "WindowsFormsApplication2\TranslatorMainApplication.csproj", "{0DD98574-B30E-47F2-A8C7-1F749884B27E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hooks", "Hooks\Hooks.csproj", "{809D4621-2E15-482A-86AB-BE2A3EA59A29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD98574-B30E-47F2-A8C7-1F749884B27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD98574-B30E-47F2-A8C7-1F749884B27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD98574-B30E-47F2-A8C7-1F749884B27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD98574-B30E-47F2-A8C7-1F749884B27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{809D4621-2E15-482A-86AB-BE2A3EA59A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809D4621-2E15-482A-86AB-BE2A3EA59A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809D4621-2E15-482A-86AB-BE2A3EA59A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809D4621-2E15-482A-86AB-BE2A3EA59A29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

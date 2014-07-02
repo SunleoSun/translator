@@ -1,0 +1,5 @@
+D:\Temp\WindowsFormsApplication2\Hooks\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\WindowsFormsApplication2\Hooks\bin\Debug\Hooks.dll
+D:\Temp\WindowsFormsApplication2\Hooks\bin\Debug\Hooks.pdb
+D:\Temp\WindowsFormsApplication2\Hooks\obj\Debug\Hooks.dll
+D:\Temp\WindowsFormsApplication2\Hooks\obj\Debug\Hooks.pdb
